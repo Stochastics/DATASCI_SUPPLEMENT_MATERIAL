@@ -1,6 +1,6 @@
 # Part 2: Productionizing the D&O Insurance Claims Model
 
-Now that we understand the statistical foundations from Part 1, let's transform our analysis into a **production-ready ML pipeline**. This guide covers containerization, orchestration, modularization, and deployment patterns used in real MLOps workflows.
+Now that we understand the statistical foundations from Part 1, let's transform our analysis into a **production-ready ML pipeline**. This guide covers containerization, orchestration, modularization, and deployment patterns used in real MLOps workflows. Here we employ what I call "config-driven development",
 
 ---
 
